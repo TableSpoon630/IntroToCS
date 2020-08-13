@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FirstConsoleProgram
+namespace VariablesOperatorsExpressions
 {
     class Program
     {
-        static object Main(string[] args)
+        static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Other text");
+            Console.WriteLine("I want to work at the Umbrella Corp.");
             Console.ReadLine();
         }
     }
